@@ -18,7 +18,7 @@ city/region, State, Country, as appropriate. Again, if multiple data sources, sp
 Los Angeles
 
 5\. Information about funding sources that supported the collection of
-the data:
+the data: We need more money!
 
 **SHARING/ACCESS INFORMATION**
 
