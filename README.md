@@ -15,6 +15,7 @@ Name:  Ryan Horne Institution: UCLA
 
 4\. Geographic location of data collection: \<latitude, longitude, or
 city/region, State, Country, as appropriate. Again, if multiple data sources, specify accordingly\>:
+Los Angeles
 
 5\. Information about funding sources that supported the collection of
 the data:
